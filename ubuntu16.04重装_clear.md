@@ -12,7 +12,7 @@
         * Windows启动盘
         * Linux live 启动盘
     * 烧制启动盘
-       * [工具](https://www.balena.ioetcher)
+       * [工具](https://www.balena.io/etcher/)
 
 * 分区
     * Something else
